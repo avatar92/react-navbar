@@ -1,6 +1,7 @@
 {
   "name": "react-navbar",
   "version": "0.1.0",
+  "homepage":"https://avatar92.github.io/dynamic-credit-card", 
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
